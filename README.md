@@ -1,2 +1,2 @@
 # Foss
-fast oss client
+[rust version] fast oss client
