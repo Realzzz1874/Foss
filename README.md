@@ -1,3 +1,3 @@
 # Foss
 
-fast oss client
+[electron] fast oss client
